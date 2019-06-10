@@ -11,7 +11,7 @@
   <groupId>pt.anogueira</groupId>
   <artifactId>evoucher</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <name>Maven Quick Start Archetype</name>
+  <name>An electronic voucher system</name>
 
   <dependencies>
     <dependency>
