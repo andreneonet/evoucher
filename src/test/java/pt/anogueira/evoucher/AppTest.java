@@ -1,4 +1,4 @@
-package pt.anogueira;
+package pt.anogueira.evoucher;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
